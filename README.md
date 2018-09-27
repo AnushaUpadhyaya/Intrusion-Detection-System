@@ -1,0 +1,2 @@
+# Intrusion-Detection-System
+I have tried some of the machine learning and deep learning algorithm for IDS 2017 dataset. The link for the dataset is here: http://www.unb.ca/cic/datasets/ids-2017.html. By keeping Monday as the training set and rest of the csv files as testing set, I tried one class SVM and deep CNN model to check how it works. Here the Monday dataset contains only normal data and rest of the days contains both normal and attacked data. 
